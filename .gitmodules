@@ -4,3 +4,24 @@
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = git://github.com/scrooloose/nerdtree.git
+[submodule "bundle/taglist.vim"]
+	path = bundle/taglist.vim
+	url = git://github.com/vim-scripts/taglist.vim.git
+[submodule "bundle/mru.vim"]
+	path = bundle/mru.vim
+	url = git://github.com/vim-scripts/mru.vim.git
+[submodule "bundle/bufexplorer"]
+	path = bundle/bufexplorer
+	url = git://github.com/vim-scripts/bufexplorer.zip.git
+[submodule "bundle/python-mode"]
+	path = bundle/python-mode
+	url = git://github.com/klen/python-mode.git
+[submodule "bundle/a.vim"]
+	path = bundle/a.vim
+	url = git://github.com/vim-scripts/a.vim.git
+[submodule "bundle/unite.vim"]
+	path = bundle/unite.vim
+	url = git://github.com/Shougo/unite.vim.git
+[submodule "bundle/vim-session"]
+	path = bundle/vim-session
+	url = git://github.com/xolox/vim-session.git
