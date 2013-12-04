@@ -22,6 +22,3 @@
 [submodule "bundle/unite.vim"]
 	path = bundle/unite.vim
 	url = git://github.com/Shougo/unite.vim.git
-[submodule "bundle/vim-session"]
-	path = bundle/vim-session
-	url = git://github.com/xolox/vim-session.git
